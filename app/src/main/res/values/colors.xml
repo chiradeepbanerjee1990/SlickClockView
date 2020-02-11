@@ -10,4 +10,7 @@
     <color name="clockcolor">#D2D8DE</color>
     <color name="innerclockcolor">#E3EDF7</color>
 
+    <color name="black">#000000</color>
+    <color name="greenish">#348900</color>
+
 </resources>
